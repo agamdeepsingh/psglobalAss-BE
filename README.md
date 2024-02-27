@@ -16,4 +16,6 @@ API ROUTES AND DOCUMENTATION TO TEST APIS IN POSTMAN
 https://documenter.getpostman.com/view/19203273/2sA2rFQKX8
 
 
+Architechtural Choice: We are using TypeScript as it makes it easier to understand the code that has been written. TS is also used to build large server side application as it creates highly scalable and efficient programs.
+
 ## NOTE: Dummy Data Mentioned In Documentation may slightly Vary from the orignal Data, In case of any confusion please contact the developer.
